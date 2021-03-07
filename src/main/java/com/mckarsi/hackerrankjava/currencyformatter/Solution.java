@@ -1,3 +1,5 @@
+package com.mckarsi.hackerrankjava.currencyformatter;
+
 import java.util.*;
 import java.text.*;
 
